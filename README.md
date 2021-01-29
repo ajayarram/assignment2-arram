@@ -29,11 +29,3 @@ I dont know why I like it exactly.
     - Elachi/Ginger(optional)
 
 [Link to AboutMe](/AboutMe.md)
-
-
-
-
-
-
-
-
