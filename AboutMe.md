@@ -27,7 +27,7 @@ Wants to learn advance concepts in masters that will be helpful in my profession
 
 ***
 
-> XQuery(Query and Functional Programming Language)
+> XQuery is a Query and Functional Programming Language.<br>
 > Let's check here what it is. <https://en.wikipedia.org/wiki/XQuery>
 
 ~~~
