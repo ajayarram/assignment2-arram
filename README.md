@@ -13,7 +13,7 @@ I dont know why I like it exactly.
 1. Take a bowl and fill it with milk 
 2. Let it boil for few minutes
 3. Items to add
-    1. Tea
+    1. Tea powder
     2. Sugar
     3. Elachi/Ginger(optional)
 4. Boil it for some more time for a good taste.
@@ -24,7 +24,7 @@ I dont know why I like it exactly.
 * Take a bowl and fill it with milk
 * Let it boil for few minutes
 * Items to add
-    - Tea
+    - Tea powder
     - sugar
     - Elachi/Ginger(optional)
 * Boil it for some more time for a good taste.
