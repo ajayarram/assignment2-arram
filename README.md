@@ -19,16 +19,14 @@ I dont know why I like it exactly.
 4. Boil it for some more time for a good taste.
 5. Now it is ready to drink
 
-### How to prepare __Tea__ using *Unorderd List*
-
-* Take a bowl and fill it with milk
-* Let it boil for few minutes
+#### Required Items to perform the task: 
+* Bowl
+* Milk
+* Stove
 * Items to add
     - Tea powder
     - sugar
     - Elachi/Ginger(optional)
-* Boil it for some more time for a good taste.
-* Now it is ready to drink 
 
 
 
