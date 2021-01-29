@@ -8,8 +8,7 @@ Wants to learn advance concepts in masters that will be helpful in my profession
 
 ***
 
-#### List of places that are recommended to visit are shown in table below.
-#### Awesome visuals that every one should experience in their life time
+#### List of places that are recommended to visit are shown in table below.<br> Awesome visuals that every one should experience in their life time
 
 | **Location Name** | **Time Limit(hrs)** | **Amount($)** |
 | ------------------| --------------------| --------------|
