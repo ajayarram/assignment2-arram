@@ -25,4 +25,24 @@ Wants to learn advance concepts in masters that will be helpful in my profession
 
 > *Friedrich Nietzsche:* Without music, life would be a mistake.
 
+***
+
+> XQuery(Query and Functional Programming Language)
+> Let's check here what it is. <https://en.wikipedia.org/wiki/XQuery>
+
+~~~
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+<book category="COOKING">
+  <title lang="en">Everyday Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>30.00</price>
+</book>
+</bookstore>
+~~~
+Reference to Xquery source code : <https://www.w3schools.com/xml/xquery_example.asp>
+
 
