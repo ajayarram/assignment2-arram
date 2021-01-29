@@ -5,4 +5,3 @@ Wants to learn advance concepts in masters that will be helpful in my profession
 
 
 ![profile pic](/profile.jpg)
-add 
