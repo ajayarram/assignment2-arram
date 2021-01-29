@@ -28,4 +28,4 @@ I dont know why I like it exactly.
     - sugar
     - Elachi/Ginger(optional)
 
-[Link to AboutMe](/AboutMe.md)
+[Link to AboutMe](AboutMe.md)
